@@ -20,6 +20,6 @@ function maybeTrue() {
 }
 function doWhileLoop(array){
   do{
-    array.shift()
+    console.log('doo-bee-doo-bee-doo')
   } while (array.length > 0)
 }
