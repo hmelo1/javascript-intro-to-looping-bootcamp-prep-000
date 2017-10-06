@@ -15,4 +15,3 @@ function whileLoop(n){
   }
   return "done"
 }
-functions
