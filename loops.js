@@ -15,8 +15,4 @@ function whileLoop(n){
   }
   return "done"
 }
-functions doWhileLoop(array){
-  do{
-    array.pop()
-  } while(maybeTrue())
-}
+functions
