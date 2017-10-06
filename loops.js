@@ -19,7 +19,4 @@ functions doWhileLoop(array){
   do{
     array.pop()
   } while(maybeTrue())
-  while (maybeTrue()) {
-    console.log("And I ran; I ran so far away!");
-  }
 }
